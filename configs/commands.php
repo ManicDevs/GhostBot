@@ -30,7 +30,7 @@ return array(
 	'Command\Findtorrents'	=> array(),
 	
 	// Admin Commands
-	'Command\Rape'		=> array(),
+	//'Command\Rape'		=> array(),
 	'Command\Say'		=> array(),
 	'Command\Join'		=> array(),
 	'Command\Part'		=> array(),
